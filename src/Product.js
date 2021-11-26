@@ -7,9 +7,6 @@ class Product extends Component{
                 <h1>
                     I am currently pursuing MCA
                 </h1>
-                <h1>
-                    Hello i am Deepak
-                </h1>
             </div>
         )
     }
